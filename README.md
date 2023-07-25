@@ -26,7 +26,7 @@
 |     14    |     income     |   object  |   Discrete  |   Income category of person  |
 
 ----
-
+![](Readme/plot.png)
 ## Motivation:
 - Building such predictive models can help us better understand the population of a country as well as the various factors affecting the growth in the economy.
 - Governments can understand such factors and improve upon them leading to the growth of the country.
